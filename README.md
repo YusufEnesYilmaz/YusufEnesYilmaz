@@ -34,7 +34,6 @@ I am currently pouring my creativity into **Ætherborne**, an **Open-World Adven
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
@@ -58,7 +57,11 @@ I am currently pouring my creativity into **Ætherborne**, an **Open-World Adven
 
 ### 📫 Connect with Me
 
-* <a href="https://www.linkedin.com/in/yusuf-enes-y%C4%B1lmaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-* **Email:** yusfensyilmz@hotmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/yusuf-enes-y%C4%B1lmaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yusfensyilmz@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
