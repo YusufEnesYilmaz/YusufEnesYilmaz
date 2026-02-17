@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf Enes 👋
 
-> **Game Developer & 4th-year Computer Engineering Student**
+> **4th-year Computer Engineering Student**
 
 I am not just a coder; I am a **Game Development Enthusiast** passionate about building immersive worlds and complex systems.
 
