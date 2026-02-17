@@ -4,9 +4,8 @@
 
 I am not just a coder; I am a **Game Development Enthusiast** passionate about building immersive worlds and complex systems.
 
-My journey is powered by **C++**, which I use to push the limits of gameplay mechanics. While I have experience in **Flutter** and **Computer Vision (Python)** from my internship at **Dataguess**, my true focus lies in creating interactive experiences using **Unreal Engine 5**.
+My journey is powered by **C++**, which I use to push the limits of gameplay mechanics. While I have experience in **Flutter** and **Computer Vision (Python)** from my internship at **Dataguess**.
 
-I love analyzing game mechanics, optimizing code, and bringing creative ideas to life.
 
 ---
 
@@ -36,15 +35,6 @@ I am currently pouring my creativity into **Ætherborne**, an **Open-World Adven
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-### ⚡ Future Goals & Learning Path
-
-* 🚀 **Mastering UE5:** Creating high-end mechanics and optimizing performance with C++.
-* 🔭 **Broadening Horizons:** Planning to explore **Unity** and **Godot** to understand different game development architectures.
-* 👾 **Game Analysis:** Deconstructing AAA game mechanics to understand "what makes it fun".
-
----
 
 ### 📊 GitHub Stats
 
