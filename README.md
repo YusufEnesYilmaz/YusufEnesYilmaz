@@ -2,8 +2,6 @@
 
 > **4th-year Computer Engineering Student**
 
-I am not just a coder; I am a **Game Development Enthusiast** passionate about building immersive worlds and complex systems.
-
 My journey is powered by **C++**, which I use to push the limits of gameplay mechanics. While I have experience in **Flutter** and **Computer Vision (Python)** from my internship at **Dataguess**.
 
 
