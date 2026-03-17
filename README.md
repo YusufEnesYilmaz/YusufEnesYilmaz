@@ -9,7 +9,7 @@ My journey is powered by **C++**, which I use to push the limits of gameplay mec
 
 ### 🎮 Project Spotlight: Ætherborne
 
-I am currently pouring my creativity into **Ætherborne**, an **Open-World Adventure Game**.
+I am  pouring my creativity into **Ætherborne**, an **Open-World Adventure Game**.
 
 * **Why this project?** To challenge myself with large-scale level design and advanced gameplay systems.
 * **Under the Hood:** Developed using **C++** for core logic and **Blueprints** for rapid prototyping.
