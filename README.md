@@ -1,18 +1,46 @@
 <h1 align="center">Hi there, I'm Yusuf Enes 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Game+Developer;C%2B%2B+%26+Unity+Engineer;4th-Year+CS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Game+Developer;C%2B%2B+%26+Unity+Engineer;AI+%26+Backend+Tinkerer;4th-Year+CS+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Building gameplay systems that push the limits — from open-world adventures to adaptive AI-driven RPGs.
-  <br/>
-  Internship experience in <strong>Computer Vision (Python)</strong> at <strong>Dataguess</strong>.
+  <img src="https://komarev.com/ghpvc/?username=YusufEnesYilmaz&label=Profile%20views&color=F7B731&style=flat" />
 </p>
 
 ---
 
-### 🎮 Project Spotlight
+### 👨‍💻 About Me
+
+- 🎮 Building **gameplay systems** — from open-world adventures to adaptive AI-driven RPGs
+- 🧠 Currently exploring **agentic AI pipelines**, knowledge graphs, and reasoning systems
+- 🎓 4th-year Computer Engineering Student
+- ⚡ Fun fact: I love designing systems where the world **reacts back** to the player
+
+---
+
+### 💼 Experience
+
+<table>
+  <tr>
+    <td valign="top"><b>🟢 Now</b></td>
+    <td valign="top">
+      <b>Software Engineering Intern @ BMS Proje</b><br/>
+      Working on backend systems and AI-powered pipelines.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>✓ Past</b></td>
+    <td valign="top">
+      <b>Computer Vision Intern @ Dataguess</b><br/>
+      Built Python-based computer vision tooling.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎮 Featured Projects
 
 <table>
   <tr>
@@ -29,7 +57,7 @@
       <p>2D Top-Down Pixel-Art RPG built with Unity.</p>
       <ul>
         <li>4-element combat with <strong>adaptive enemy AI</strong> that counters your playstyle</li>
-        <li>DDA, 5-village reputation system, LLM-powered NPC dialogue</li>
+        <li>Dynamic Difficulty, 5-village reputation system, LLM-powered NPC dialogue</li>
       </ul>
       <a href="https://github.com/YusufEnesYilmaz/Elemental-Story">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufEnesYilmaz&repo=Elemental-Story&theme=radical&hide_border=true" />
@@ -40,7 +68,7 @@
 
 ---
 
-### 🚀 Technical Skills
+### 🚀 Tech Stack
 
 **Game Development**
 <p align="left"> 
@@ -50,12 +78,20 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-**Other Languages & Tools**
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+**Backend & AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+**Mobile & Data**
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
