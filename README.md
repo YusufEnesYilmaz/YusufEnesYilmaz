@@ -104,6 +104,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufEnesYilmaz&theme=react-dark&hide_border=true&bg_color=0d1117&color=F7B731&line=F7B731&point=ffffff" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YusufEnesYilmaz/YusufEnesYilmaz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YusufEnesYilmaz/YusufEnesYilmaz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YusufEnesYilmaz/YusufEnesYilmaz/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YusufEnesYilmaz&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
