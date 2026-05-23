@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yusuf Enes 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Game+Developer;C%2B%2B+%26+Unity+Engineer;Computer+Vision+%7C+Python;4th-Year+CS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Game+Developer;C%2B%2B+%26+Unity+Engineer;4th-Year+CS+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
