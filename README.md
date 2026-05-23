@@ -1,28 +1,42 @@
-### Hi there, I'm Yusuf Enes 👋
+<h1 align="center">Hi there, I'm Yusuf Enes 👋</h1>
 
-> **4th-year Computer Engineering Student**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Game+Developer;C%2B%2B+%26+Unity+Engineer;Computer+Vision+%7C+Python;4th-Year+CS+Student" alt="Typing SVG" />
+</p>
 
-My journey is powered by **C++** and **Unity**, which I use to push the limits of gameplay mechanics. I also have experience in **Flutter** and **Computer Vision (Python)** from my internship at **Dataguess**.
-
+<p align="center">
+  Building gameplay systems that push the limits — from open-world adventures to adaptive AI-driven RPGs.
+  <br/>
+  Internship experience in <strong>Computer Vision (Python)</strong> at <strong>Dataguess</strong>.
+</p>
 
 ---
 
 ### 🎮 Project Spotlight
 
-#### Ætherborne
-An **Open-World Adventure Game** built with Unreal Engine.
-
-* **Under the Hood:** Developed using **C++** for core logic and **Blueprints** for rapid prototyping.
-* **Recognition:** Selected as a **Jury Nominee** for the University Project Showcase.
-
----
-
-#### Elemental Story
-A **2D Top-Down Pixel-Art RPG** built with Unity.
-
-* **Core Mechanic:** The player wields all 4 elements (Fire / Water / Earth / Air) while enemies adapt to counter your dominant playstyle in real-time.
-* **Systems:** Dynamic Difficulty Adjustment (DDA), 5-village reputation system, AI-powered NPC dialogue (LLM API), crafting, and quest systems.
-* **Under the Hood:** Built entirely in **C#** with Unity, featuring a reactive enemy AI that tracks player behavior metrics and transforms enemies to maintain challenge.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ætherborne</h3>
+      <p>Open-World Adventure Game built with Unreal Engine.</p>
+      <ul>
+        <li>Core logic in <strong>C++</strong>, rapid prototyping with Blueprints</li>
+        <li>🏆 <strong>Jury Nominee</strong> — University Project Showcase</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Elemental Story</h3>
+      <p>2D Top-Down Pixel-Art RPG built with Unity.</p>
+      <ul>
+        <li>4-element combat with <strong>adaptive enemy AI</strong> that counters your playstyle</li>
+        <li>DDA, 5-village reputation system, LLM-powered NPC dialogue</li>
+      </ul>
+      <a href="https://github.com/YusufEnesYilmaz/Elemental-Story">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YusufEnesYilmaz&repo=Elemental-Story&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,12 +58,21 @@ A **2D Top-Down Pixel-Art RPG** built with Unity.
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufenes&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufenes&layout=compact&theme=radical&hide_border=true" alt="languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufEnesYilmaz&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufEnesYilmaz&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YusufEnesYilmaz&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YusufEnesYilmaz&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
