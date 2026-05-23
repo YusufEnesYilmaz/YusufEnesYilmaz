@@ -26,7 +26,7 @@
     <td valign="top"><b>🟢 Now</b></td>
     <td valign="top">
       <b>Software Engineering Intern @ BMS Proje</b><br/>
-      Working on backend systems and AI-powered pipelines.
+      Developing the <strong>Zupos</strong> web panel.
     </td>
   </tr>
   <tr>
