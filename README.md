@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td valign="top"><b>🟢 Now</b></td>
+   <td valign="top"><b>✓ Past</b></td>
     <td valign="top">
       <b>Software Engineering Intern @ BMS Proje</b><br/>
       Developing the <strong>Zupos</strong> web panel.
