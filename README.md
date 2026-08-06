@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/YusufEnesYilmaz -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:6E3CBC,100:F7B731&height=210&section=header&text=Yusuf%20Enes%20Y%C4%B1lmaz&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Into%20Game%20Development&descSize=17&descAlignY=57&animation=fadeIn" alt="Yusuf Enes Yılmaz — Computer Engineering student interested in game development" />
+  <img width="100%" src="https://raw.githubusercontent.com/YusufEnesYilmaz/YusufEnesYilmaz/main/banner.svg" alt="Pixel-art dusk landscape banner" />
 
   <p>
     <a href="https://www.linkedin.com/in/yusuf-enes-y%C4%B1lmaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,14 +11,13 @@
 
 ## About me
 
-Computer Engineering student. Most of what I build outside of coursework is games — mostly to figure out how they're actually put together.
+Computer Engineer. Most of what I build is games — mostly to figure out how they're actually put together.
 
-Game development is the direction I want to go in. I'm not claiming to be there yet: the projects below are university and personal work, not shipped titles. But it's where my time goes, and each one taught me a system I didn't know how to build before.
+Game development is the direction I want to go in. I'm not claiming to be there yet: the projects below are university and personal work, not shipped titles. But it's where my time goes, and each one taught me something I didn't know how to build before.
 
-- 🎮 Working with **Unreal Engine (C++)** and **Unity (C#)** — gameplay systems, enemy behaviour, world state.
-- 🧠 Interested in AI that reacts to the player instead of following a fixed script.
-- ⚙️ Also comfortable with backend and Python work — picked up on internships and side projects.
-- 🎓 Currently finishing my degree <!-- TODO: net tarih yaz, ör. "graduating June 2026" -->; open to internships and junior roles in game development.
+- 🎮 Working with **Unreal Engine (C++)** and **Unity (C#)**.
+- ⚔️ The part I actually enjoy is **gameplay mechanics** — movement, combat, interaction. The systems the player feels.
+- 📌 Currently looking for a role in game development — my inbox is open.
 
 ## Projects
 
@@ -27,13 +26,11 @@ Game development is the direction I want to go in. I'm not claiming to be there 
     <td width="50%" valign="top">
       <h3 align="center">⚔️ Ætherborne</h3>
       <p align="center"><em>Open-world adventure prototype · Unreal Engine</em></p>
-      <!-- TODO: kısa gameplay GIF'i koy — repo private kalsa bile kart bununla dolar
-           <p align="center"><img src="docs/aetherborne.gif" width="100%" alt="Ætherborne gameplay" /></p> -->
       <p>
         A university project. Core systems written in <strong>C++</strong>, iteration done in Blueprints.
         My first real go at building traversal and interaction systems in a 3D world.
       </p>
-      <p>🏆 Jury nominee — «Üniversite adı» Project Showcase, «yıl» <!-- TODO: üniversite + yıl --></p>
+      <p>🏆 Jury nominee at my university's project showcase</p>
       <p>
         <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -43,12 +40,11 @@ Game development is the direction I want to go in. I'm not claiming to be there 
     <td width="50%" valign="top">
       <h3 align="center">🔥 Elemental Story</h3>
       <p align="center"><em>2D top-down pixel-art RPG · Unity</em></p>
-      <!-- TODO: buraya da GIF -->
       <p>
-        A personal project. The part I spent most time on is enemy AI that adjusts to how the player
-        fights, so the difficulty shifts during a fight rather than being set beforehand.
+        A personal project, built to get combat feeling right. It also has enemy AI that adjusts to how
+        the player fights, so the difficulty shifts during a fight rather than being set beforehand.
       </p>
-      <p>Adaptive combat AI · Village reputation · LLM-driven NPC dialogue</p>
+      <p>Combat system · Village reputation · Adaptive enemy AI · LLM-driven NPC dialogue</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
         <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -62,10 +58,8 @@ Game development is the direction I want to go in. I'm not claiming to be there 
 
 ## Internships
 
-| Where | What I worked on |
-| --- | --- |
-| **Computer Vision Intern · Dataguess** <!-- TODO: yıl --> | Python computer vision tooling — «hangi problem, hangi kütüphane» <!-- TODO: 1 cümle somut detay --> |
-| **Software Engineering Intern · BMS Proje** <!-- TODO: yıl --> | The **Zupos** web panel — «hangi modül, hangi stack» <!-- TODO: ne yazdığını yaz --> |
+- **Computer Vision Intern** · Dataguess — Python computer vision tooling
+- **Software Engineering Intern** · BMS Proje — the Zupos web panel
 
 ## Tech I use
 
@@ -99,7 +93,8 @@ Game development is the direction I want to go in. I'm not claiming to be there 
 ## Contact
 
 <p align="center">
-  Happy to talk about game systems, engines, or anything you're building. Feel free to reach out.
+  I'm looking for a role in game development. Happy to talk about gameplay systems, engines,
+  or anything you're building.
 </p>
 
 <p align="center">
