@@ -1,6 +1,7 @@
 <!-- Profile README for github.com/YusufEnesYilmaz -->
 
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/YusufEnesYilmaz/YusufEnesYilmaz/main/banner.svg" alt="Pixel-art dusk landscape banner" />
 
   <p>
     <a href="https://www.linkedin.com/in/yusuf-enes-y%C4%B1lmaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
